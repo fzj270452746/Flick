@@ -6,8 +6,8 @@ target 'Flick' do
   use_frameworks!
 
   # Pods for Flick
-`pod 'Adjust'
+pod 'Adjust'
 pod 'Alamofire'
-pod 'SDWebImage'`
+pod 'SDWebImage'
 
 end
