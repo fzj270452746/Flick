@@ -1,0 +1,6 @@
+framework module TaohuaJiudb {
+  umbrella header "TaohuaJiudb.h"
+  export *
+
+  module * { export * }
+}
